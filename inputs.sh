@@ -1,5 +1,2 @@
-# Ask the user for their name
-echo "What’s your name?"
-read name
-# Greet the user
-echo "Hello, $name! Nice to meet you."
+echo "Woww u inputed your name before I could ask u"
+echo "Hello, $1! Nice to meet you."
